@@ -1,0 +1,33 @@
+{
+  "name": "eko-checkbox",
+  "version": "1.1.7",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/eko-checkbox.umd.js",
+  "module": "fesm5/eko-checkbox.js",
+  "es2015": "fesm2015/eko-checkbox.js",
+  "esm5": "esm5/eko-checkbox.js",
+  "esm2015": "esm2015/eko-checkbox.js",
+  "fesm5": "fesm5/eko-checkbox.js",
+  "fesm2015": "fesm2015/eko-checkbox.js",
+  "typings": "eko-checkbox.d.ts",
+  "metadata": "eko-checkbox.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valon Hajredini",
+  "license": "EKO",
+  "keywords": [
+    "Angular"
+  ]
+}
